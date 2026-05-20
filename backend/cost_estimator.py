@@ -1,6 +1,6 @@
 # cost_estimator.py
 # This file gives a lightweight estimated monthly cost range.
-# It is not exact pricing. It is meant for system planning and interview demo purposes.
+# It is not exact pricing. It is meant for system planning and demo purposes.
 
 def estimate_cost(expected_users: int = 1000):
     # Simple assumption: each user sends around 30 queries per month
